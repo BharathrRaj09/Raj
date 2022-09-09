@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <product>
 	<name>laptop</name>
 	<price>50000</price>
 </product>
+=======
+<employee>
+	<name>Bharath</name>
+	<age>21</age>
+</employee>
+>>>>>>> br418
 
